@@ -1,0 +1,3 @@
+﻿  评委打分案例.cpp
+C:\Users\86186\Desktop\cccc\deque容器\deque容器\评委打分案例.cpp(63,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  deque容器.vcxproj -> C:\Users\86186\Desktop\cccc\deque容器\x64\Debug\deque容器.exe
